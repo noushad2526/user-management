@@ -68,7 +68,7 @@ User Management is designed to showcase CRUD operations using various front-end 
 
 DEMO VIDEO
 For a visual walkthrough of the application's functionality, please refer to the Demo Video.
-[Demo Video](https://github.com/noushad2526/user-management/blob/master/DEMO-user_management.mp4)
+https://github.com/noushad2526/user-management/assets/96682049/53351dee-ffa3-4a20-8268-e4de654be7d2
 
 Feedback and Contributions
 Feedback and contributions to this project are welcome. If you find any issues or have suggestions for improvement, please feel free to open an issue or submit a pull request.
